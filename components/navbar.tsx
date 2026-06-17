@@ -14,9 +14,6 @@ export function Navbar() {
             <span>Marathon UZ</span>
           </Link>
 
-
-
-
           {/* Navigation Links */}
           <div className="hidden md:flex items-center gap-8">
             <Link href="/" className="text-foreground hover:text-accent transition-colors text-sm font-medium">
