@@ -35,7 +35,6 @@ export function Navbar() {
               Map
             </Link>
           </div>
-
           {/* CTA Button */}
           <Link
             href="/register"
