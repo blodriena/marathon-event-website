@@ -20,7 +20,6 @@ export function Navbar() {
           <div className="hidden md:flex items-center gap-8">
             <Link href="/" className="text-foreground hover:text-accent transition-colors text-sm font-medium">
               Home
-      
             </Link>
             <Link href="/register" className="text-foreground hover:text-accent transition-colors text-sm font-medium">
               Register
