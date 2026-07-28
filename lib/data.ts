@@ -44,6 +44,9 @@ export function getParticipantById(id: string): Participant | undefined {
 // Uzbekistan cities by region
 export const uzbekistanData = {
   regions: [
+
+
+    
     { name: 'Tashkent', city: 'Tashkent', coordinates: [69.2401, 41.2995] },
     { name: 'Samarkand', city: 'Samarkand', coordinates: [66.9597, 39.6548] },
     { name: 'Bukhara', city: 'Bukhara', coordinates: [64.4229, 39.7747] },
