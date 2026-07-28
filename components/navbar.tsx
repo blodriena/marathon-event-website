@@ -24,7 +24,6 @@ export function Navbar() {
             </Link>
             <Link href="/register" className="text-foreground hover:text-accent transition-colors text-sm font-medium">
               Register
-        
             </Link>
             <Link href="/participants" className="text-foreground hover:text-accent transition-colors text-sm font-medium">
               Participants
