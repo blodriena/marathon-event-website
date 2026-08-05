@@ -36,6 +36,7 @@ export function Navbar() {
             </Link>
           </div>
 
+
           
           {/* CTA Button */}
           <Link
